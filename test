@@ -3,4 +3,9 @@ public class Foo
   public Foo()
   {
   }
+
+  public int Foo()
+  {
+    return -1;
+  }
 }
