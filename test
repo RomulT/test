@@ -1,6 +1,11 @@
 public class Foo
 {
+<<<<<<< HEAD
   private int _foo = 0;
+=======
+  //private int _foo = 0;
+  //private int _foo2 = -1;
+>>>>>>> origin/master
 
   public Foo()
   {
