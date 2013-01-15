@@ -1,5 +1,7 @@
 public class Foo
 {
+  //private int _foo = 0;
+
   public Foo()
   {
   }
